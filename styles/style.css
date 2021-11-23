@@ -77,11 +77,13 @@ body{
   background-color: white;
   margin-top: 0.5rem;
   color: var(--soft-magenta);
+  transition: 0.8s;
 }
 
 .btn:hover{
   background-color: var(--soft-magenta);
   color: white;
+  cursor: pointer;
 }
 
 .footer{
